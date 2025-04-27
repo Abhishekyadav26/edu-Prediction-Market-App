@@ -1,17 +1,6 @@
 ![Screenshot from 2025-01-06 23-52-31](https://github.com/user-attachments/assets/46bad240-1b0e-4483-9b24-c4a5a2493c03)
 
 
-# thirdweb-next-starter
-
-Starter template to build an onchain react native app with [thirdweb](https://thirdweb.com/) and [next](https://nextjs.org/).
-
-## Installation
-
-Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
-
-```bash
-  npx thirdweb create app --next
-```
 
 ## Environment Variables
 
